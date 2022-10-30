@@ -39,7 +39,7 @@
 * Сценарий: [Project_Cisco](https://github.com/Alexultrax/Dalechin-lab2/blob/main/Далечин_ЛР№3.pkt)
 * Отчет: [Отчёт](https://github.com/Alexultrax/Dalechin-lab2/blob/main/Далечин_ЛР№3.pdf)
 
-## ✅ Экзаменационные билет №2
+## ✅ Экзаменационные билет №25
 
 Ответ на экзаменационный билет доступен по ссылке:
 [билет №25](https://github.com/stankin/inet-2022/wiki/exam25)

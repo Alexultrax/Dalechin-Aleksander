@@ -25,7 +25,7 @@
 
 ### Работа над проектом велась студентом ИДМ-22-03 Далечиным А.С.
 1. Репозиторий проекта доступен по ссылке: [IT_Project](https://github.com/Alexultrax/Dalechin-lab2)
-2. Веб-страница с описанием проекта доступна по ссылке: [Landing page](https://alexultrax.github.io/Dalechin-lab2/)
+2. Веб-страница проекта доступна по ссылке: [Landing page](https://alexultrax.github.io/Dalechin-lab2/)
 
 ## ✅ Лабораторная работа № 3
 Настройка локальной сети передачи данных.

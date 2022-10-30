@@ -9,8 +9,8 @@
 4. Размещение кода исходной страницы в репозитории.
 5. Размещение странички на хостинге.
 
-* Ссылка на личный репозиторий: [Lana-fairymay](https://github.com/lana-fairymay/INET-Labs-Works)
-* Ссылка на личный лендинг: [Lending](https://lana-fairymay.github.io/INET-Labs-Works/)
+* Ссылка на личный репозиторий: [Dalechin-Aleksander](https://github.com/Alexultrax/Dalechin-Aleksander)
+* Ссылка на личный лендинг: [Lending](https://alexultrax.github.io/Dalechin-Aleksander/)
 
 ## ✅ Лабораторная работа № 2
 Разработка Web-приложения
@@ -24,8 +24,8 @@
    + Язык таблиц стилей CSS;
 
 ### Работа над проектом велась студентом ИДМ-22-03 Далечиным А.С.
-1. Репозиторий проекта доступен по ссылке: [IT_Project]()
-2. Веб-страница с описанием проекта доступна по ссылке: [Landing page]()
+1. Репозиторий проекта доступен по ссылке: [IT_Project](https://github.com/Alexultrax/Dalechin-lab2)
+2. Веб-страница с описанием проекта доступна по ссылке: [Landing page](https://alexultrax.github.io/Dalechin-lab2/)
 
 ## ✅ Лабораторная работа № 3
 Настройка локальной сети передачи данных.

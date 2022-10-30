@@ -32,8 +32,8 @@
 
 Работа с Сisco Packet Tracer.
 Материалы о выполнении лабораторной работы:
-* Сценарий: [Project_Cisco]()
-* Отчет: ()
+* Сценарий: [Project_Cisco](https://github.com/Alexultrax/Dalechin-lab2/blob/main/Далечин_ЛР№3.pkt)
+* Отчет: (https://github.com/Alexultrax/Dalechin-lab2/blob/main/Далечин_ЛР№3.pdf)
 
 ## ✅ Экзаменационные билет №2
 
